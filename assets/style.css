@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid white;
+}
+.yazilar{
+    width: 49%;
+    height: 100%;
+    border: 1px solid white;
+    float: left;
+}
+.imges{
+    width: 49.9%;
+    height: 100%;
+    border: 0;
+    background-repeat: no-repeat;
+    background-image: url("https://i0.wp.com/reedquest.org/wp-content/uploads/2023/02/spike.png?resize=512%2C512&ssl=1");
+float: right;
+}
+.sc{
+    
+    font-size: 20px;
+    margin: 0 100px 100px 300px;
+}
+.whoi{
+    margin: 0 100px 0px 300px;
+
+}
+.ui{
+    font-size: 20px;
+    color: rgb(234, 157, 208);
+}
+h1{
+    font-size: 80px;
+}
+.buttons{
+  padding: 20px 0 0 0;
+}
+.firstbutton{
+
+     width: 200px;
+    height: 33px;
+    color: aliceblue;
+    background-color: rgb(234, 157, 208);
+    border: rgb(234, 157, 208);
+    box-shadow: 5px;
+    
+}
+.secondbutton{
+    width: 100px;
+    height: 33px;
+    color: black;
+    background-color: wheat;
+    border: wheat;
+}
